@@ -20,6 +20,8 @@ This project showcases a modern web application architecture implementing best p
 
 ## ScreenShot
 
+https://github.com/user-attachments/assets/dd581ff6-bf4b-400e-9048-57a1576bb8e3
+
 ## Frontend
 
 The client application is built with:
